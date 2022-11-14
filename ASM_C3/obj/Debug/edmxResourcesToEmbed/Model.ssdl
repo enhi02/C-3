@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ASM_C3Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Grade">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="MSSV" Type="nvarchar" MaxLength="20" />
+    <Property Name="TiengAnh" Type="int" />
+    <Property Name="TinHoc" Type="int" />
+    <Property Name="GDTC" Type="int" />
+  </EntityType>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="MSSV" />
+    </Key>
+    <Property Name="MSSV" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="HoTen" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="SDT" Type="nvarchar" MaxLength="20" />
+    <Property Name="GioiTinh" Type="nvarchar" MaxLength="10" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="255" />
+    <Property Name="Hinh" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="users_login">
+    <Key>
+      <PropertyRef Name="username" />
+    </Key>
+    <Property Name="username" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="passwork" Type="nvarchar" MaxLength="50" />
+    <Property Name="roles" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK">
+    <End Role="Students" Type="Self.Students" Multiplicity="0..1" />
+    <End Role="Grade" Type="Self.Grade" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="MSSV" />
+      </Principal>
+      <Dependent Role="Grade">
+        <PropertyRef Name="MSSV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ASM_C3ModelStoreContainer">
+    <EntitySet Name="Grade" EntityType="Self.Grade" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Students" EntityType="Self.Students" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="users_login" EntityType="Self.users_login" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK" Association="Self.FK">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Grade" EntitySet="Grade" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

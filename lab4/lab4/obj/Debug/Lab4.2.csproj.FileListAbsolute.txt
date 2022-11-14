@@ -1,0 +1,10 @@
+D:\C3\lab4\lab4\lab4\obj\Debug\Lab4.2.csprojAssemblyReference.cache
+D:\C3\lab4\lab4\lab4\obj\Debug\lab4.From.resources
+D:\C3\lab4\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+D:\C3\lab4\lab4\lab4\obj\Debug\Lab4.2.csproj.GenerateResource.cache
+D:\C3\lab4\lab4\lab4\obj\Debug\Lab4.2.csproj.CoreCompileInputs.cache
+D:\C3\lab4\lab4\lab4\obj\Debug\lab4.exe
+D:\C3\lab4\lab4\lab4\obj\Debug\lab4.pdb
+D:\C3\lab4\lab4\lab4\bin\Debug\lab4.exe.config
+D:\C3\lab4\lab4\lab4\bin\Debug\lab4.exe
+D:\C3\lab4\lab4\lab4\bin\Debug\lab4.pdb

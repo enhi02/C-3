@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="thiModelStoreContainer" CdmEntityContainer="thiEntities">
+    <EntitySetMapping Name="NhanViens">
+      <EntityTypeMapping TypeName="thiModel.NhanVien">
+        <MappingFragment StoreEntitySet="NhanVien">
+          <ScalarProperty Name="maNV" ColumnName="maNV" />
+          <ScalarProperty Name="hoTenNV" ColumnName="hoTenNV" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="hinh" ColumnName="hinh" />
+          <ScalarProperty Name="matkhau" ColumnName="matkhau" />
+          <ScalarProperty Name="vaitro" ColumnName="vaitro" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

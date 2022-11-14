@@ -1,0 +1,6 @@
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\DTO_QuanLY\bin\Debug\DTO_QuanLY.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\DTO_QuanLY\bin\Debug\DTO_QuanLY.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\DTO_QuanLY\obj\Debug\DTO_QuanLY.csproj.AssemblyReference.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\DTO_QuanLY\obj\Debug\DTO_QuanLY.csproj.CoreCompileInputs.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\DTO_QuanLY\obj\Debug\DTO_QuanLY.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\DTO_QuanLY\obj\Debug\DTO_QuanLY.pdb

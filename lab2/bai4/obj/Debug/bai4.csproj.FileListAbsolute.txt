@@ -1,0 +1,14 @@
+D:\Skyfolder\Desktop\c3\lab2\bai4\obj\Debug\lab2.bai1.resources
+D:\Skyfolder\Desktop\c3\lab2\bai4\obj\Debug\lab2.bai2.resources
+D:\Skyfolder\Desktop\c3\lab2\bai4\obj\Debug\bai4.bai4.resources
+D:\Skyfolder\Desktop\c3\lab2\bai4\obj\Debug\bai3.Form1.resources
+D:\Skyfolder\Desktop\c3\lab2\bai4\obj\Debug\bai3.Form2.resources
+D:\Skyfolder\Desktop\c3\lab2\bai4\obj\Debug\bai4.Properties.Resources.resources
+D:\Skyfolder\Desktop\c3\lab2\bai4\obj\Debug\bai4.csproj.GenerateResource.cache
+D:\Skyfolder\Desktop\c3\lab2\bai4\obj\Debug\bai4.csproj.CoreCompileInputs.cache
+D:\Skyfolder\Desktop\c3\lab2\bai4\bin\Debug\bai4.exe.config
+D:\Skyfolder\Desktop\c3\lab2\bai4\bin\Debug\bai4.exe
+D:\Skyfolder\Desktop\c3\lab2\bai4\bin\Debug\bai4.pdb
+D:\Skyfolder\Desktop\c3\lab2\bai4\obj\Debug\bai4.exe
+D:\Skyfolder\Desktop\c3\lab2\bai4\obj\Debug\bai4.pdb
+D:\Skyfolder\Desktop\c3\lab2\bai4\obj\Debug\bai4.csproj.AssemblyReference.cache

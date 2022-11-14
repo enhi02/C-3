@@ -1,0 +1,26 @@
+﻿<Window x:Class="baib.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:baib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid VerticalAlignment="Bottom" Height="394">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="93*"/>
+            <ColumnDefinition Width="599*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock FontSize="26" FontWeight="Bold" HorizontalAlignment="Left" Margin="111,37,0,0" TextWrapping="Wrap" Text="Chương Trình tính Toán" VerticalAlignment="Top" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="83,137,0,0" TextWrapping="Wrap" Text="Số:
+" VerticalAlignment="Top" RenderTransformOrigin="-2.531,1.125" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txb_num" HorizontalAlignment="Left" Height="23" Margin="56,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168" KeyUp="txb_num_KeyUp" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="83,205,0,0" TextWrapping="Wrap" Text="Kết quả:" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <TextBox IsEnabled="False" x:Name="txb_result" HorizontalAlignment="Left" Height="23" Margin="56,204,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219" Grid.Column="1"/>
+        <Button x:Name="btn_bp" Content="Bình Phương" HorizontalAlignment="Left" Margin="373,107,0,0" VerticalAlignment="Top" Width="118" RenderTransformOrigin="-0.027,0.45" Height="33" Grid.Column="1" Click="btn_bp_Click"/>
+        <Button x:Name="btn_lp" Content="Lập Phương" HorizontalAlignment="Left" Margin="373,153,0,0" VerticalAlignment="Top" Width="118" RenderTransformOrigin="-0.027,0.45" Height="33" Grid.Column="1" Click="btn_lp_Click"/>
+        <Button x:Name="btn_gt" Content="Giai Thừa" HorizontalAlignment="Left" Margin="373,204,0,0" VerticalAlignment="Top" Width="118" RenderTransformOrigin="-0.027,0.45" Height="33" Grid.Column="1" Click="btn_gt_Click"/>
+        <Button x:Name="Thoát" Content="Thoát" HorizontalAlignment="Left" Margin="282,255,0,0" VerticalAlignment="Top" Width="118" RenderTransformOrigin="-0.027,0.45" Height="33" Grid.Column="1" Click="Thoát_Click"/>
+
+    </Grid>
+</Window>

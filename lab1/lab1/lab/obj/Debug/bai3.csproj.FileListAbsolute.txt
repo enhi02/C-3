@@ -1,0 +1,10 @@
+D:\SysFolder\Desktop\c3\lab1\lab1\lab\bin\Debug\lab.exe.config
+D:\SysFolder\Desktop\c3\lab1\lab1\lab\bin\Debug\lab.exe
+D:\SysFolder\Desktop\c3\lab1\lab1\lab\bin\Debug\lab.pdb
+D:\SysFolder\Desktop\c3\lab1\lab1\lab\obj\Debug\bai3.csprojAssemblyReference.cache
+D:\SysFolder\Desktop\c3\lab1\lab1\lab\obj\Debug\lab.Form3.resources
+D:\SysFolder\Desktop\c3\lab1\lab1\lab\obj\Debug\lab.Properties.Resources.resources
+D:\SysFolder\Desktop\c3\lab1\lab1\lab\obj\Debug\bai3.csproj.GenerateResource.cache
+D:\SysFolder\Desktop\c3\lab1\lab1\lab\obj\Debug\bai3.csproj.CoreCompileInputs.cache
+D:\SysFolder\Desktop\c3\lab1\lab1\lab\obj\Debug\lab.exe
+D:\SysFolder\Desktop\c3\lab1\lab1\lab\obj\Debug\lab.pdb

@@ -1,0 +1,12 @@
+D:\C3\ASM\ps18264_ASM_C3\bin\Debug\ps18264_ASM_C3.exe.config
+D:\C3\ASM\ps18264_ASM_C3\bin\Debug\ps18264_ASM_C3.exe
+D:\C3\ASM\ps18264_ASM_C3\bin\Debug\ps18264_ASM_C3.pdb
+D:\C3\ASM\ps18264_ASM_C3\obj\Debug\ps18264_ASM_C3.csproj.AssemblyReference.cache
+D:\C3\ASM\ps18264_ASM_C3\obj\Debug\ps18264_ASM_C3.DangNhap.resources
+D:\C3\ASM\ps18264_ASM_C3\obj\Debug\ps18264_ASM_C3.Properties.Resources.resources
+D:\C3\ASM\ps18264_ASM_C3\obj\Debug\ps18264_ASM_C3.QuanLyDiem.resources
+D:\C3\ASM\ps18264_ASM_C3\obj\Debug\ps18264_ASM_C3.csproj.GenerateResource.cache
+D:\C3\ASM\ps18264_ASM_C3\obj\Debug\ps18264_ASM_C3.csproj.CoreCompileInputs.cache
+D:\C3\ASM\ps18264_ASM_C3\obj\Debug\ps18264_ASM_C3.exe
+D:\C3\ASM\ps18264_ASM_C3\obj\Debug\ps18264_ASM_C3.pdb
+D:\C3\ASM\ps18264_ASM_C3\obj\Debug\ps18264_ASM_C3.QuanLySV.resources

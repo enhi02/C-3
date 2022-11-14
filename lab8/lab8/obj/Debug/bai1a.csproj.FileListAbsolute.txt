@@ -1,0 +1,15 @@
+D:\Skyfolder\Desktop\c3\lab8\lab8\bin\Debug\lab8.exe.config
+D:\Skyfolder\Desktop\c3\lab8\lab8\bin\Debug\lab8.exe
+D:\Skyfolder\Desktop\c3\lab8\lab8\bin\Debug\lab8.pdb
+D:\Skyfolder\Desktop\c3\lab8\lab8\obj\Debug\bai1a.csproj.AssemblyReference.cache
+D:\Skyfolder\Desktop\c3\lab8\lab8\obj\Debug\MainWindow.g.cs
+D:\Skyfolder\Desktop\c3\lab8\lab8\obj\Debug\App.g.cs
+D:\Skyfolder\Desktop\c3\lab8\lab8\obj\Debug\lab8_MarkupCompile.cache
+D:\Skyfolder\Desktop\c3\lab8\lab8\obj\Debug\lab8_MarkupCompile.lref
+D:\Skyfolder\Desktop\c3\lab8\lab8\obj\Debug\MainWindow.baml
+D:\Skyfolder\Desktop\c3\lab8\lab8\obj\Debug\lab8.g.resources
+D:\Skyfolder\Desktop\c3\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+D:\Skyfolder\Desktop\c3\lab8\lab8\obj\Debug\bai1a.csproj.GenerateResource.cache
+D:\Skyfolder\Desktop\c3\lab8\lab8\obj\Debug\bai1a.csproj.CoreCompileInputs.cache
+D:\Skyfolder\Desktop\c3\lab8\lab8\obj\Debug\lab8.exe
+D:\Skyfolder\Desktop\c3\lab8\lab8\obj\Debug\lab8.pdb

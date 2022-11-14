@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ASM_C3ModelStoreContainer" CdmEntityContainer="ASM_C3Entities">
+    <EntitySetMapping Name="Grades">
+      <EntityTypeMapping TypeName="ASM_C3Model.Grade">
+        <MappingFragment StoreEntitySet="Grade">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MASV" ColumnName="MASV" />
+          <ScalarProperty Name="TiengAnh" ColumnName="TiengAnh" />
+          <ScalarProperty Name="TinHoc" ColumnName="TinHoc" />
+          <ScalarProperty Name="GDTC" ColumnName="GDTC" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="ASM_C3Model.Student">
+        <MappingFragment StoreEntitySet="Students">
+          <ScalarProperty Name="MASV" ColumnName="MASV" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="Hinh" ColumnName="Hinh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="users_login">
+      <EntityTypeMapping TypeName="ASM_C3Model.users_login">
+        <MappingFragment StoreEntitySet="users_login">
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="passwork" ColumnName="passwork" />
+          <ScalarProperty Name="roles" ColumnName="roles" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

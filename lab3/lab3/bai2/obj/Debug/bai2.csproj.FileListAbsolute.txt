@@ -1,0 +1,10 @@
+D:\hoc\c#3\lap3\bai1\bai2\bin\Debug\bai2.exe.config
+D:\hoc\c#3\lap3\bai1\bai2\bin\Debug\bai2.exe
+D:\hoc\c#3\lap3\bai1\bai2\bin\Debug\bai2.pdb
+D:\hoc\c#3\lap3\bai1\bai2\obj\Debug\bai2.csprojAssemblyReference.cache
+D:\hoc\c#3\lap3\bai1\bai2\obj\Debug\bai2.Form1.resources
+D:\hoc\c#3\lap3\bai1\bai2\obj\Debug\bai2.Properties.Resources.resources
+D:\hoc\c#3\lap3\bai1\bai2\obj\Debug\bai2.csproj.GenerateResource.cache
+D:\hoc\c#3\lap3\bai1\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+D:\hoc\c#3\lap3\bai1\bai2\obj\Debug\bai2.exe
+D:\hoc\c#3\lap3\bai1\bai2\obj\Debug\bai2.pdb

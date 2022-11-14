@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ASM_C3Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Grade">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MSSV" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TiengAnh" Type="Int32" />
+    <Property Name="TinHoc" Type="Int32" />
+    <Property Name="GDTC" Type="Int32" />
+    <NavigationProperty Name="Student" Relationship="Self.FK" FromRole="Grade" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="MSSV" />
+    </Key>
+    <Property Name="MSSV" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SDT" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="GioiTinh" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="DiaChi" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Hinh" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Grades" Relationship="Self.FK" FromRole="Students" ToRole="Grade" />
+  </EntityType>
+  <EntityType Name="users_login">
+    <Key>
+      <PropertyRef Name="username" />
+    </Key>
+    <Property Name="username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="passwork" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="roles" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK">
+    <End Role="Students" Type="Self.Student" Multiplicity="0..1" />
+    <End Role="Grade" Type="Self.Grade" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="MSSV" />
+      </Principal>
+      <Dependent Role="Grade">
+        <PropertyRef Name="MSSV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ASM_C3Entities3" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Grades" EntityType="Self.Grade" />
+    <EntitySet Name="Students" EntityType="Self.Student" />
+    <EntitySet Name="users_login" EntityType="Self.users_login" />
+    <AssociationSet Name="FK" Association="Self.FK">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Grade" EntitySet="Grades" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

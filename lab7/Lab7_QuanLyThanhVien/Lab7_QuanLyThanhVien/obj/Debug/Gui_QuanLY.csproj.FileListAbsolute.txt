@@ -1,0 +1,17 @@
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\bin\Debug\Lab7_QuanLyThanhVien.exe.config
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\bin\Debug\Lab7_QuanLyThanhVien.exe
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\bin\Debug\Lab7_QuanLyThanhVien.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\bin\Debug\BUS_QuanLy.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\bin\Debug\DTO_QuanLY.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\bin\Debug\DAL_QuanLy.dll
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\bin\Debug\BUS_QuanLy.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\bin\Debug\DTO_QuanLY.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\bin\Debug\DAL_QuanLy.pdb
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\obj\Debug\Gui_QuanLY.csproj.AssemblyReference.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\obj\Debug\Lab7_QuanLyThanhVien.GUI_THANHVIEN.resources
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\obj\Debug\Lab7_QuanLyThanhVien.Properties.Resources.resources
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\obj\Debug\Gui_QuanLY.csproj.GenerateResource.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\obj\Debug\Gui_QuanLY.csproj.CoreCompileInputs.cache
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\obj\Debug\Gui_QuanLY.csproj.CopyComplete
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\obj\Debug\Lab7_QuanLyThanhVien.exe
+C:\Users\tungnh230802\OneDrive\WorkSpace\hocky3\c#3\workLab\Lab7_QuanLyThanhVien\Lab7_QuanLyThanhVien\obj\Debug\Lab7_QuanLyThanhVien.pdb
